@@ -2,7 +2,7 @@
 models/
 tmp/
 *.bak
-*.pkl
+# *.pkl
 bears/
 __pycache__/
 .last_checked
